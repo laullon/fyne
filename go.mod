@@ -1,4 +1,4 @@
-module fyne.io/fyne
+module github.com/laullon/fyne
 
 go 1.12
 
